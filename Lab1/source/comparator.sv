@@ -17,26 +17,38 @@ module comparator
 	output wire eq
 );
 
-	wire gte;
-	wire lte;
+	reg gte, lte;
+	reg gto, lto, eqo;
+	
+	assign gt = gto; //assigning regs to output wires
+	assign lt = lto;
+	assign eq = eqo;
 
-	always @ (a, b) begin: COM
-		if (not (a > b))
-			lte <= 1'b1;
-		if (!(b > a)
-			assign gte = 1'b1;
-		
-		if (not (lte == 1'b1))
-			GT = 1'b1;
-			LT == 1'b0;
-			EQ = 1'b0;
-		else if (not (gte == 1))
-			GT = 1'b0;
-			LT = 1'b1;
-			EQ = 1'b0;
-		else
-			GT = 1'b0;
-			LT = 1'b0;
-			EQ = 1'b1;
+	always @ (a, b) begin: COM 
+		if (a < b) begin //comparing inputs
+			lte = 1;
+			gte = 0;
+		end else if (a > b) begin
+			gte = 1;
+			lte = 0;
+		end else begin
+			gte = 0;
+			lte = 0;
+		end
+
+		if (gte == 1'b1) begin //setting regs
+			gto = 1'b1;
+			lto = 1'b0;
+			eqo = 1'b0;
+		end else if (lte == 1'b1) begin
+			gto = 1'b0;
+			lto = 1'b1;
+			eqo = 1'b0;
+		end else begin
+			gto = 1'b0;
+			lto = 1'b0;
+			eqo = 1'b1;
+		end
 	end
-endmodule;
+	
+endmodule 
