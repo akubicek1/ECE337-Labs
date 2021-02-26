@@ -1,0 +1,672 @@
+Coverage Report Summary Data by instance
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[0].ADDX /U1
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.invx2(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                      6         6         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[0].ADDX /U2
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[0].ADDX /U3
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.aoi22x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     18        18         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[0].ADDX /U4
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[0].ADDX 
+=== Design Unit: work.adder_1bit_15
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     14        14         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[1].ADDX /U1
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.invx2(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                      6         6         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[1].ADDX /U2
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[1].ADDX /U3
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.aoi22x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     18        18         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[1].ADDX /U4
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[1].ADDX 
+=== Design Unit: work.adder_1bit_14
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     14        14         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[2].ADDX /U1
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.invx2(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                      6         6         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[2].ADDX /U2
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[2].ADDX /U3
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.aoi22x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     18        18         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[2].ADDX /U4
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[2].ADDX 
+=== Design Unit: work.adder_1bit_13
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     14        14         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[3].ADDX /U1
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.invx2(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                      6         6         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[3].ADDX /U2
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[3].ADDX /U3
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.aoi22x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     18        18         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[3].ADDX /U4
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[3].ADDX 
+=== Design Unit: work.adder_1bit_12
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     14        14         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[4].ADDX /U1
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.invx2(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                      6         6         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[4].ADDX /U2
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[4].ADDX /U3
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.aoi22x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     18        18         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[4].ADDX /U4
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[4].ADDX 
+=== Design Unit: work.adder_1bit_11
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     14        14         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[5].ADDX /U1
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.invx2(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                      6         6         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[5].ADDX /U2
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[5].ADDX /U3
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.aoi22x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     18        18         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[5].ADDX /U4
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[5].ADDX 
+=== Design Unit: work.adder_1bit_10
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     14        14         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[6].ADDX /U1
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.invx2(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                      6         6         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[6].ADDX /U2
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[6].ADDX /U3
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.aoi22x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     18        18         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[6].ADDX /U4
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[6].ADDX 
+=== Design Unit: work.adder_1bit_9
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     14        14         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[7].ADDX /U1
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.invx2(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                      6         6         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[7].ADDX /U2
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[7].ADDX /U3
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.aoi22x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     18        18         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[7].ADDX /U4
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[7].ADDX 
+=== Design Unit: work.adder_1bit_8
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     14        14         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[8].ADDX /U1
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.invx2(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                      6         6         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[8].ADDX /U2
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[8].ADDX /U3
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.aoi22x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     18        18         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[8].ADDX /U4
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[8].ADDX 
+=== Design Unit: work.adder_1bit_7
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     14        14         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[9].ADDX /U1
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.invx2(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                      6         6         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[9].ADDX /U2
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[9].ADDX /U3
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.aoi22x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     18        18         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[9].ADDX /U4
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[9].ADDX 
+=== Design Unit: work.adder_1bit_6
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     14        14         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[10].ADDX /U1
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.invx2(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                      6         6         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[10].ADDX /U2
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[10].ADDX /U3
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.aoi22x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     18        18         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[10].ADDX /U4
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[10].ADDX 
+=== Design Unit: work.adder_1bit_5
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     14        14         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[11].ADDX /U1
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.invx2(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                      6         6         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[11].ADDX /U2
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[11].ADDX /U3
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.aoi22x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     18        18         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[11].ADDX /U4
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[11].ADDX 
+=== Design Unit: work.adder_1bit_4
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     14        14         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[12].ADDX /U1
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.invx2(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                      6         6         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[12].ADDX /U2
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[12].ADDX /U3
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.aoi22x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     18        18         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[12].ADDX /U4
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[12].ADDX 
+=== Design Unit: work.adder_1bit_3
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     14        14         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[13].ADDX /U1
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.invx2(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                      6         6         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[13].ADDX /U2
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[13].ADDX /U3
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.aoi22x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     18        18         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[13].ADDX /U4
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[13].ADDX 
+=== Design Unit: work.adder_1bit_2
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     14        14         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[14].ADDX /U1
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.invx2(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                      6         6         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[14].ADDX /U2
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[14].ADDX /U3
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.aoi22x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     18        18         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[14].ADDX /U4
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[14].ADDX 
+=== Design Unit: work.adder_1bit_1
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     14        14         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[15].ADDX /U1
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.invx2(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                      6         6         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[15].ADDX /U2
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[15].ADDX /U3
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.aoi22x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     18        18         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[15].ADDX /U4
+=== Design Unit: /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work.xor2x1(behavioral)
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     10        10         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD/\genblk1[15].ADDX 
+=== Design Unit: work.adder_1bit_0
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                     14        14         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT/ADD
+=== Design Unit: work.adder_nbit_BIT_WIDTH16
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                    130       130         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit/DUT
+=== Design Unit: work.adder_16bit
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Toggle Bins                    100       100         0    100.00
+
+=================================================================================
+=== Instance: /tb_adder_16bit
+=== Design Unit: work.tb_adder_16bit
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Stmts                           84        78         6     92.85
+    Branches                         6         2         4     33.33
+    FEC Condition Terms              3         0         3      0.00
+    Toggle Bins                    234       204        30     87.17
+
+
+Total Coverage By Instance (filtered view): 55.65%
+
