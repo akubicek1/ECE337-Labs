@@ -11,6 +11,6 @@ module adder_8bit
 	output wire [7:0] sum,
 	output wire overflow
 );
-
+	adder_nbit #(.BIT_WIDTH(8)) ADD(.a(a[7:0]), .b(b[7:0]), .carry_in(carry_in), .sum(sum[7:0]), .overflow(overflow));
 	// STUDENT: Fill in the correct port map with parameter override syntax for using your n-bit ripple carry adder design to be an 8-bit ripple carry adder design
 endmodule
